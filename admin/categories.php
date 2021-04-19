@@ -58,6 +58,7 @@
                                 <tr>
                                     <th>Category Title</th>
                                     <th>Delete Category</th>
+                                    <th>Edit Category</th>
                                 </tr>
                             </thead>
                             <tbody>
